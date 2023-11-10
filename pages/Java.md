@@ -1,0 +1,8 @@
+- **Cycle de release**
+	- JDK (Java Development Kit) tous les 6 mois, contient:
+		- JVM
+		- javac
+		- bibliothèques java du standard
+	- LTS (Long Time Support) tous les 2 ans
+		- Durée du support plus grande
+		- Se concentre sur la compatibilité ascendante

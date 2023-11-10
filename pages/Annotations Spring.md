@@ -1,0 +1,2 @@
+- @Service == @Component, indique que c'est un bean et est donc une classe gérée par Spring.
+- @Repository, comme @Service mais permet de la gestion spécifique d'exceptions.

@@ -1,0 +1,14 @@
+- Langage
+	- [[Java]]
+	- [[Python]]
+	- [[SQL]]
+- Infra
+	- BDD
+		- [[MySQL]]
+		- [[DBeaver]]
+		- [[MariaDB]]
+	- [[Docker]]
+	- [[Kubernetes]]
+	- [[Réseau]]
+- Projet
+	- [[Git]]

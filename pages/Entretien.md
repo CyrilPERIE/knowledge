@@ -1,0 +1,6 @@
+- **Pense bête attitude**
+-
+- [[CV]]
+- [[Lettre de motivation]]
+- [[Pitch]]
+- [[Questions]]
